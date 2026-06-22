@@ -1,2 +1,2 @@
-# goit-markup-hw-01
-Homework 1, Block HTML + CSS
+# goit-markup-hw-02
+Homework 2, Block HTML + CSS
