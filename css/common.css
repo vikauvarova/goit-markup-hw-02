@@ -8,14 +8,14 @@ body{
     font-weight: 400;
 }
 
-h1{
+.main-heading{
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
 }
 
-h2{
+.section-heading{
     font-size: 36px;
     line-height: 1.11;
     font-weight: 700;
@@ -23,14 +23,14 @@ h2{
     color: #2e2f42;
 }
 
-h3{
+.h3{
     font-size: 20px;
     line-height: 1.2;
     font-weight: 500;
-     color: #2e2f42;
+    color: #2e2f42;
 }
 
-a{
+.link {
     font-size: 12px;
     line-height: 1.33;
     letter-spacing: 0.04em;
@@ -38,6 +38,6 @@ a{
     color: inherit;
 }
 
-ul {
+.list {
   list-style-type: none;
 }

@@ -46,3 +46,7 @@
 .contact:hover{
     color: #404BBF;
 }
+
+.contacts:focus{
+    color: #404BBF;
+}
