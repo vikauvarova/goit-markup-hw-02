@@ -28,6 +28,7 @@ body{
     line-height: 1.2;
     font-weight: 500;
     color: #2e2f42;
+    letter-spacing: 0.02em;
 }
 
 .link {
@@ -38,6 +39,6 @@ body{
     color: inherit;
 }
 
-.list {
+ul {
   list-style-type: none;
 }
