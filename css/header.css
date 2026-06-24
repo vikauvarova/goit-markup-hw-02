@@ -1,0 +1,46 @@
+.logo {
+    text-transform: uppercase;
+    color: #2E2F42;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.33;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+}
+
+.color-iris {
+    color: #4D5AE5;
+}
+
+.navigation{
+
+    color: #2E2F42;
+}
+
+.navigation-link {
+    font-size: inherit;
+    font-weight: 500;
+    line-height: inherit;
+    letter-spacing: inherit;
+    text-decoration: none;
+}
+
+.navigation-link:hover{
+    color: #404BBF;
+}
+
+.navigation-link:active {
+    border-bottom: 4px solid #404BBF;
+}
+
+.contact{
+    text-decoration: none;
+    font-style: normal;
+    font-size: inherit;
+    letter-spacing: inherit;
+}
+
+.contact:hover{
+    color: #404BBF;
+}

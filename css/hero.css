@@ -1,0 +1,16 @@
+.hero{
+    background: #2E2F42;
+    color: white;
+    text-align: center;
+}
+
+.btn {
+    color: white;
+    background-color: #4D5AE5;
+    border: none;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    font-weight: 500;
+    font-family:"Roboto", sans-serif;
+}
