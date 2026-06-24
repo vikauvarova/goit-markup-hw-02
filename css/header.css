@@ -29,9 +29,11 @@
 .navigation-link:hover{
     color: #404BBF;
 }
+.navigation-link:focus{
+    color: #404BBF;
+}
 
 .navigation-link:active {
-    border-bottom: 4px solid #404BBF;
 }
 
 .contact{

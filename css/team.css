@@ -1,5 +1,12 @@
+.team{
+    background-color: #F4F4FD;
+}
+.team-item{
+    background-color: #ffffff;
+}
 .name{
     text-align: center;
+   
 }
 .role{
     text-align: center;
